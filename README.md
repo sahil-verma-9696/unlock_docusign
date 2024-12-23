@@ -3,6 +3,9 @@
 
 This Next.js-based application helps users adopt pets and support shelters through sponsorships and donations.
 
+# figma 
+[figma link](https://www.figma.com/design/ujX3LVnpKkv6qOjzoXY1DZ/Untitled?node-id=0-1&t=IAHeLB7WwbGEtdlJ-1)
+
 ## Features
 - Browse pets for adoption.
 - Sponsor a pet or donate to shelters.
