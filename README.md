@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# 🐾 Pet Adoption & Sponsor App
+
+This Next.js-based application helps users adopt pets and support shelters through sponsorships and donations.
+
+## Features
+- Browse pets for adoption.
+- Sponsor a pet or donate to shelters.
+- Admin dashboard for managing pets and sponsors.
+
+## Tech Stack
+- **Frontend**: Next.js, Tailwind CSS
+- **Backend**: Django with MongoDB
+- **Deployment**: Vercel (frontend), Ngrok (backend)
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/pet-adoption-app.git
 
 ## Getting Started
 
@@ -29,8 +47,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Frontend Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+deploment link : [see deployed app](https://unlock-docusign.vercel.app)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
